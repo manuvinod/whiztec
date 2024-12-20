@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "161519485763",
+    "project_id": "fir-exam-3d77b",
+    "storage_bucket": "fir-exam-3d77b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161519485763:android:457a4f8b14fca48481a5f6",
+        "android_client_info": {
+          "package_name": "com.example.firbase_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvXWBe7i5EEFfqQVJWDxkrWdW7f3T0BaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161519485763:android:33d53467b1f689e581a5f6",
+        "android_client_info": {
+          "package_name": "com.example.fluttertask2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvXWBe7i5EEFfqQVJWDxkrWdW7f3T0BaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161519485763:android:779072ab28e7afcc81a5f6",
+        "android_client_info": {
+          "package_name": "com.example.whiztec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvXWBe7i5EEFfqQVJWDxkrWdW7f3T0BaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
